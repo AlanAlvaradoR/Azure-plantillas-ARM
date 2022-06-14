@@ -259,7 +259,7 @@ Estas plantillas son creadas por personas de la comunidad de Azure de todo el mu
 1. Ve al repositorio de [Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 2. Escoge una plantilla y al hacer clic en ella te aparecerá la siguiente interfaz:
 
-![Pantallazo GitHub](/res/images/img-arm3.jpg)
+![Github]()
 
 Donde puedes:
 
@@ -267,6 +267,4 @@ Donde puedes:
 - Implementarla en tu cuenta de Azure con un solo clic desde el botón Deploy to Azure. Esto te abrirá una ventana de portal.azure.com con todas las configuraciones de la plantilla donde tu puedes modificar los parametros y ordenar la ejecución manualmente
 - Implementarla en un ambiente de Azure Gov si esta se encuentra validada para ello
 - Ver las pruebas que ha pasado por medio de *badges*
-- Verla en un diagrama similar a este:
-
-![Pantallazo diagrama ARM](/res/images/img-arm4.jpg)
+- Verla en un diagrama
