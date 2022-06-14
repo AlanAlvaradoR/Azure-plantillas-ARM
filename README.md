@@ -228,11 +228,11 @@ Si quieres aprender más sobre la creación de las plantillas consulta la siguie
 2. Una vez dentro, explora el detalle de un recurso haciendo clic desde la página principal o desde la sección **Todos los recursos**
 3. Una vez dentro del recurso, desliza el menu lateral izquierdo hasta el fondo y encontrarás la opción **Exportar plantilla**
 
-![Exportar plantilla](/res/images/img-arm1.jpg)
+![Exportar plantilla](https://github.com/AlanAlvaradoR/Azure-plantillas-ARM/blob/main/imagenes/1.PNG)
 
 4. Encontrarás una interfaz similar a esta:
 
-![Exportación de plantilla](images/img-arm2.jpg)
+![Exportación de plantilla](https://github.com/AlanAlvaradoR/Azure-plantillas-ARM/blob/main/imagenes/2.PNG)
 
 Dentro de esta interfaz podrás:
 
@@ -259,7 +259,7 @@ Estas plantillas son creadas por personas de la comunidad de Azure de todo el mu
 1. Ve al repositorio de [Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 2. Escoge una plantilla y al hacer clic en ella te aparecerá la siguiente interfaz:
 
-![Github]()
+![Github](https://github.com/AlanAlvaradoR/Azure-plantillas-ARM/blob/main/imagenes/3.PNG)
 
 Donde puedes:
 
