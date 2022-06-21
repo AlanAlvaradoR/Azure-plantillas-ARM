@@ -33,9 +33,13 @@ Si te aparece lo siguiente quiere decir que la plantilla fue implementada con é
 "ProvisioningState": "Succeeded",
 ```
 
-5. Ve a portal.azure.com y dirigete a tu grupo de recursos. Después da clic en Implementaciones o *Deployments*
+5. Ve a portal.azure.com y dirigete a tu grupo de recursos. Después da clic en Implementaciones o *Deplyments*
+
+![Captura portal Azure](/res/images/img-arm5.jpg)
 
 6. Aquí encontrarás la plantilla que acabas de crear junto con todas las implementaciones que se han hecho desde Azure Portal, Cloud Shell o Azure CLI
+
+![Captura portal Azure](/res/images/img-arm6.jpg)
 
 Si el nombre de tu plantilla aparece como correcta quiere decir que se implementó bien. Dentro ya puedes tener más información de su ejecución
 
@@ -207,14 +211,7 @@ az deployment group create \
   --parameters storagePrefix=VALOR_storagePrefix
 ```
 
-Después de la ejecución exitosa de este comando te debe de crear un recurso similar a este:
-
-![Captura portal Azure](/res/images/img-arm7.jpg)
-
-Si quieres aprender más sobre la creación de las plantillas consulta la siguiente documentación:
-- [Documentación de las plantillas de Resource Manager
-](https://docs.microsoft.com/es-mx/azure/azure-resource-manager/templates/)
-- [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/)
+Después de la ejecución exitosa de este comando te debe de crear un nuevo recurso.
 
 ## Obtener una plantilla de ARM ya hecha
 
