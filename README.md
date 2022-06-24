@@ -33,13 +33,9 @@ Si te aparece lo siguiente quiere decir que la plantilla fue implementada con é
 "ProvisioningState": "Succeeded",
 ```
 
-5. Ve a portal.azure.com y dirigete a tu grupo de recursos. Después da clic en Implementaciones o *Deplyments*
-
-![Captura portal Azure](/res/images/img-arm5.jpg)
+5. Ve a portal.azure.com y dirigete a tu grupo de recursos. Después da clic en Implementaciones o *Deployments*
 
 6. Aquí encontrarás la plantilla que acabas de crear junto con todas las implementaciones que se han hecho desde Azure Portal, Cloud Shell o Azure CLI
-
-![Captura portal Azure](/res/images/img-arm6.jpg)
 
 Si el nombre de tu plantilla aparece como correcta quiere decir que se implementó bien. Dentro ya puedes tener más información de su ejecución
 
